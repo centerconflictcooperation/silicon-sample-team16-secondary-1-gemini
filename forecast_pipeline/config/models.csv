@@ -1,0 +1,2 @@
+model_id,model,integration,family,temperature,output_mode,seed,n_completions,roster_status,active,notes
+gemini-3.1-pro-preview,gemini-3.1-pro-preview,vertexai,Google,0,structured,42,1,submitted,TRUE,Single-model secondary entry; two fixed prompts and one completion per intervention-prompt
